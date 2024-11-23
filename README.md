@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our project deals with the design and implementation of a temperature-controlled fan system. The principle involved here is that the speed of the fan will vary with ambient temperature for energy efficiency. It consists of an AT89C52 microcontroller, a temperature sensor LM35, and a 16x2 LCD displaying the temperature reading. Pulse Width Modulation is used for dynamic control of the fan speed.
+###Our project deals with the design and implementation of a temperature-controlled fan system. The principle involved here is that the speed of the fan will vary with ambient temperature for energy efficiency. It consists of an AT89C52 microcontroller, a temperature sensor LM35, and a 16x2 LCD displaying the temperature reading. Pulse Width Modulation is used for dynamic control of the fan speed.
 ---
 
 ## Getting Started

@@ -27,7 +27,7 @@ To set up and run the prototype locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Nishit1006/Temprature-controlled-fan.git
-   cd [repository-folder-name]
+   cd Temprature-controlled-fan
 
    
 1. **Code To Programme AT89C52**:

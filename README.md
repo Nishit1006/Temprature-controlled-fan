@@ -1,4 +1,4 @@
-# Temprature-controlled-fan]
+# Temprature-controlled-fan
 
 ## Introduction
 
